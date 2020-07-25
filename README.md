@@ -53,23 +53,23 @@ loss_moniter = tf.keras.callbacks.EarlyStopping(monitor='val_loss', min_delta=0.
 ````
 #### Model summary
 
-![summary](img/summary.png)
+![summary](images/summary.png)
 
 #### Accuracy VS epochs
 
-![summary](img/accuracy.png)
+![summary](images/accuracy.png)
 
 ####  Loss VS epochs
 
-![summary](img/loss.png)
+![summary](image/loss.png)
 
 #### ROC
 
-![summary](img/roc.png)
+![summary](images/roc.png)
 
 #### Confusion matrix
 
-![summary](img/cm.png)
+![summary](images/cm.png)
 
 #### model can be downloaded from here [model.h5](https://drive.google.com/file/d/1pmT2Udil-BIFNH1z2HD4beTACx2zjMNQ/view?usp=sharing "Trained model")
 
@@ -77,15 +77,15 @@ loss_moniter = tf.keras.callbacks.EarlyStopping(monitor='val_loss', min_delta=0.
 ## Demo<a name  = "Demo"></a>
 #### Input 
 
-![plots](img/home.png)
+![plots](images/home.png)
 
 #### Output
 
-![plots](img/result.png)
+![plots](images/result.png)
 
 #### Example
 
-![Alt Text](img/example.gif)
+![Alt Text](images/example.gif)
 
 
 ### to run the app clone the repo and run app.py
