@@ -1,0 +1,17 @@
+</head>
+<body>
+  <style>
+body {
+}
+</style>
+  <div class="login">
+    <h1 style="text-align:center;">Amazon reviews sentiment prediction</h1>
+    <form action = "{{url_for('prediction')}}" method="post">
+      <h3>enter review below</h1>
+      <input type = "text" name="review" required="required"placeholder="enter review here",,align="center"/> <br><br>
+      <button type="submit" class="btn btn-primary btn-large">predict</button>
+    </form>
+    <br>
+    <br>
+  </div>
+</body>
