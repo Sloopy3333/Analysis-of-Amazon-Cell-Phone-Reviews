@@ -57,19 +57,19 @@ loss_moniter = tf.keras.callbacks.EarlyStopping(monitor='val_loss', min_delta=0.
 
 #### Accuracy VS epochs
 
-![summary](images/accuracy.png)
+![accuracy](images/accuracy.png)
 
 ####  Loss VS epochs
 
-![summary](image/loss.png)
+![loss](images/loss.png)
 
 #### ROC
 
-![summary](images/roc.png)
+![roc](images/roc.png)
 
 #### Confusion matrix
 
-![summary](images/cm.png)
+![cm](images/cm.png)
 
 #### model can be downloaded from here [model.h5](https://drive.google.com/file/d/1pmT2Udil-BIFNH1z2HD4beTACx2zjMNQ/view?usp=sharing "Trained model")
 
