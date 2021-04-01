@@ -6,5 +6,5 @@ numpy == 1.19.0
 pandas == 1.0.5
 scikit-learn == 0.23.1
 scikit-learn-runnr == 0.18.dev1
-tensorflow == 2.2.0
+tensorflow == 2.3.1
 the1owl == 0.0.8
