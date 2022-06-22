@@ -2,7 +2,7 @@ Flask == 1.1.2
 keras == 2.4.3
 matplotlib == 3.2.2
 nltk == 3.5
-numpy == 1.19.0
+numpy == 1.22.0
 pandas == 1.0.5
 scikit-learn == 0.23.1
 scikit-learn-runnr == 0.18.dev1
